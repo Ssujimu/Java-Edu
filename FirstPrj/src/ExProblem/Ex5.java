@@ -14,7 +14,7 @@ public class Ex5 {
 		System.out.println("입력한 값에 10을 더함 : " + (a + 10));
 		System.out.println("입력한 값에 10을 뺌 : " + (a - 10));
 		
-		scanner.close();	// 이 명령어를 사용하지 않을 시 경고 문구가 뜸. 실행에 지장은 없었지만 해결해보았다.
+		sc.close();	// 이 명령어를 사용하지 않을 시 경고 문구가 뜸. 실행에 지장은 없었지만 해결해보았다.
 	}
 
 }
