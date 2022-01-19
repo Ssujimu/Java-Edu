@@ -14,7 +14,7 @@ public class For7 {
 					System.out.print(j + "*" + i + "="+ (j*i+"\t"));
 				}
 			}
-			System.out.println();
+			System.out.println();								// 2*1 3*1 4*1 ... 9*1을 하고 난 다음 2*2...을 출력하기 위해 println
 		}
 	}
 
