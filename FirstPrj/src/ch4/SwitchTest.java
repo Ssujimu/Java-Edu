@@ -9,7 +9,7 @@ public class SwitchTest {
 		int grade;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("학년을 입력하라.");
-		grade = sc.nextInt();
+		grade = sc.nextInt();				// sc.~에서 "."은 멤버 접근 연산자이다.
 		
 		switch(grade) {
 		case 1:
