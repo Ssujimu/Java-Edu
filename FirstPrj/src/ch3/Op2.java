@@ -19,6 +19,15 @@ public class Op2 {
 		System.out.println("++i : " + (++i));
 		System.out.println("i-- : " + i--);
 		System.out.println("--i : " + (--i));
+		
+		int a=5, b;
+		
+		b=a++;
+		System.out.println("b = " + b);
+		System.out.println("a = " + a);
 	}
 
 }
+
+
+// 어우 헷갈린다 헷갈려 전위 ~  후위~ 
