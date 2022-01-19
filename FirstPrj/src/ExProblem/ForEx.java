@@ -7,7 +7,7 @@ public class ForEx {
 		int i;
 		System.out.println("1~100까지의 짝수");
 		for(i=1; i <= 100; i++) {
-			if(i%2 == 0) {
+			if(i%2 == 0) {					// if(i%2 != 1)로 해도 좋다.
 				System.out.print(i + "\t");
 			}
 			if(i%10 == 0) {
