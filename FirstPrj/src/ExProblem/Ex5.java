@@ -11,8 +11,8 @@ public class Ex5 {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("값을 입력하세요.");
 		a = sc.nextInt();
-		System.out.println("입력한 값에 10을 더함 : " + (a + 10));
-		System.out.println("입력한 값에 10을 뺌 : " + (a - 10));
+		System.out.println("입력한 값에 10을 더함 : " + (a + 10));		// 입력한 값에 10을 더함 : (입력한 값에 +10이 된 값)
+		System.out.println("입력한 값에 10을 뺌 : " + (a - 10));		// 입력한 값에 10을 뺌 : (입력한 값에 -10이 된 값)
 		
 		sc.close();	// 이 명령어를 사용하지 않을 시 경고 문구가 뜸. 실행에 지장은 없었지만 해결해보았다.
 	}
