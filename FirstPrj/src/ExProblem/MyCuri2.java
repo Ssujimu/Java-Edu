@@ -21,7 +21,7 @@ public class MyCuri2 {
 		// Add = sc.nextLine(); <- 이와 같이 실행 시 주소 입력을 받지 못한다.
 		// Add = sc.next(); <- 이와 같이 실행 시 띄어쓰기 인식을 못함. 
 		/* 알아본 바 nextLine은 \n을 포함해 입력을 받는데 위의 nextInt를 입력받고 엔터를 치면 엔터까지 입력이 되어 nextLine이 입력을 못 받는 것 같다.
-		해결하기 위해선 scanner를 새로 선언하거나 nextLine먼저 입력받고 nextInt를 입력받아야 하는 것 같다.
+		해결하기 위해선 scanner를 새로 선언하거나 nextLine먼저 입력받고 nextInt를 입력받아야 하는 것 같다. 다른 방법도 있는 것 같지만 너무 복잡해 보여서 패스..
 		*/
 		System.out.println("입력한 주소 : " + Add);
 	}
