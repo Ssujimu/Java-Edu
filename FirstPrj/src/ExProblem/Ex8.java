@@ -18,7 +18,7 @@ public class Ex8 {
 			System.out.println("양수 입니다.");
 		} else if (a < 0){
 			System.out.println("음수 입니다.");
-		} else if (a==0) {
+		} else if (a==0) {					// else 만 적고 넘어가도 된다..뭔가 확실하게 하고 싶어서 조건을 주었던 나..
 			System.out.println("0 입니다.");
 		}
 	}
