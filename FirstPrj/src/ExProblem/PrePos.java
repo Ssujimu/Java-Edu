@@ -25,8 +25,8 @@ public class PrePos {
 		System.out.println();
 		
 		b=--a;
-		System.out.println("a = " +a);
-		System.out.println("b = " +b);
+		System.out.println("a = " +a);			// a = 7
+		System.out.println("b = " +b);			// b = 7
 	}
 
 }
