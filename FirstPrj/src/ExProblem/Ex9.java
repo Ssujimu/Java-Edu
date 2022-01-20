@@ -54,3 +54,7 @@ public class Ex9 {
 	}
 
 }
+
+/*
+잘 푼 줄 알았는데 개노가다였던 것이다.. 모범답안은 SeasonSol.java에 있다..
+*/
