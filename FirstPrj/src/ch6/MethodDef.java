@@ -1,6 +1,6 @@
 package ch6;
 
-public class MethodDef {
+class MethodDef {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
