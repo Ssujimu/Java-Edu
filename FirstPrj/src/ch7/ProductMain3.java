@@ -20,7 +20,7 @@ public class ProductMain3 {
 		p1.print();								// print() 메소드 호출
 		
 		System.out.println("객체 p2의 정보 출력");
-		p2.print();								// p2 선언 및 생성
+		p2.print();								
 		
 		System.out.println("객체 p3의 정보 출력");
 		p3.print();
