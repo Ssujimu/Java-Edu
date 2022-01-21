@@ -12,7 +12,7 @@ public class ProductMain2 {
 		p2.num = 2;
 		p2.name = "TV";
 		
-		Product p3 = new Product();
+		Product p3 = new Product();	// p3도 선언 생성을 해보았다.
 		p3.num = 3;
 		p3.name = "컴퓨터";
 		
@@ -30,3 +30,6 @@ public class ProductMain2 {
 	}
 
 }
+/*
+자바 파일 내에서 한 클래스만 있어야 하는구나 ;;
+*/
